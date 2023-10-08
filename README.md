@@ -3,7 +3,7 @@
 ```kotlin
 object **Samara V** {
  val name = "Samara Vitória da Silva"
- val acknowledgements = "Front-End"
+ val acknowledgements = "Developer"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Java", "Node.Js", "JavaScript", "Typescript", "React") 

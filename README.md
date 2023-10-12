@@ -1,38 +1,25 @@
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+```js
+import Developer from "iamsamarav";
 
-```kotlin
-object **Samara V** {
- val name = "Samara Vitória da Silva"
- val acknowledgements = "Developer"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Node.Js", "JavaScript", "Typescript", "React") 
+class SobreMim extends Desenvolvedor {
+  name = "Samara Vitória";
+  area = "Back-End/Data Analyst";
+  work = "Fusion DMS";
+  local = "Recife, PE";
+}
 
+class Skills extends Developer {
+  languages = ["JavaScript, Python and Java"];
+  libraries = ["React"];
+  frameworks = ["Express"];
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://gitlab.com/uploads/-/system/project/avatar/31182514/logo-react-icon.png"></code>
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-
-## **GitHub Estatísticas**
-
-<a href="https://github.com/iamsamarav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsamarav&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/iamsamarav">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsamarav&show_icons=true&theme=dracula&line_height=27" alt="**Samara Vitória** github stats"/>
-</a>
-
-[linkedin]: https://www.linkedin.com/in/iamsamarav/
-<br>
-
+</p>

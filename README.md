@@ -3,7 +3,7 @@ import Developer from "iamsamarav";
 
 class SobreMim extends Desenvolvedor {
   name = "Samara Vitória";
-  area = "Back-End/Data Analyst";
+  area = "Data Analyst";
   work = "Fusion DMS";
   local = "Recife, PE";
 }

@@ -4,7 +4,6 @@ import Developer from "iamsamarav";
 class SobreMim extends Desenvolvedor {
   name = "Samara Vitória";
   area = "Data Analyst";
-  work = "Fusion DMS";
   local = "Recife, PE";
 }
 
